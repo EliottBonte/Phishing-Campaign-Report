@@ -1,0 +1,10 @@
+Dear [Name],
+
+I am conducting a simulated phishing campaign to raise awareness about phishing attacks and study user behavior in response to such threats. This campaign is for research purposes, and no personal or sensitive information will be at risk. If you agree to participate, you will receive a phishing-like email, and I will analyze the responses to measure the effectiveness of the attack.
+
+Your participation is entirely voluntary, and all data will be anonymized in the final report.
+
+Please confirm your participation by replying to this email.
+
+Best regards,
+Eliott
